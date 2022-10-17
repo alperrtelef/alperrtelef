@@ -1,5 +1,11 @@
-### Hi👋, I'm Alper Telef
+<h1 align="center">Hello 👋, I'm Alper <br /><br /> 
 
-## I'm a Student in Uludağ University👨‍🎓
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpertelef/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alperrr_14/)
+
+</h1>
 - 🌱 I’m currently learning 😂
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play football and cycling 🚴‍♀️
+
+- 🚒 I'm interested in autonomous vehicles, electronics and machine learning.
+
+- 📝 Mail :   alpertelef@gmail.com
