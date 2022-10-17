@@ -6,6 +6,6 @@
 </h1>
 - 🌱 I’m currently learning 😂
 
-- 🚒 I'm interested in autonomous vehicles, electronics and networks.
+- 🚒 I'm interested in electronics, networks and learning artificial intelligence 🤖
 
 - 📝 Mail :   alpertelef@gmail.com
