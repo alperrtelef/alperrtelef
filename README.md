@@ -1,11 +1,13 @@
-<h1 align="center">Hello 👋, I'm Alper <br /><br /> 
+<h1 align="center">Hello 👋, I'm İREM DURU <br /><br /> 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpertelef/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alperrr_14/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duruirem/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duruuireem/)
 
 </h1>
-- 🌱 I’m currently learning Pyhton and Arduıno😂
+Until I graduate, I want to travel to various countries and improve myself in the software industry. I want to find a job in this industry.
 
-- 🚒 I'm interested in electronics, networks and learning artificial intelligence 🤖
+- 🌱 I’m currently learning Pyhton 
 
-- 📝 Mail :   alpertelef@gmail.com
+- 🚒 I'm interested in software, coding and learning artificial intelligence 🤖
+
+- 📝 Mail :   duruiremz@outlook.com
